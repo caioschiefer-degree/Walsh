@@ -14,10 +14,10 @@ This repository accompanies a QM 640 Capstone project (Walsh College).
 
 | Source | Role | Location | Original URL |
 |---|---|---|---|
-| Government AI Readiness Index (Oxford Insights) | Outcome variable | `data/raw/oxford/` | https://oxfordinsights.com/ai-readiness/ |
-| World Development Indicators (World Bank) | Predictors (connectivity, socioeconomic, tech) | `data/raw/wdi/` | https://databank.worldbank.org/source/world-development-indicators |
-| Worldwide Governance Indicators (World Bank) | Predictors (governance) | `data/raw/wgi/` | https://databank.worldbank.org (bundled within WDI) |
-| Stanford AI Index (Global AI Vibrancy Tool) | Contextual/narrative reference only — not used as a model input due to limited (~36) country coverage | `stanford/` | https://aiindex.stanford.edu/vibrancy |
+| Government AI Readiness Index (Oxford Insights) | Outcome variable | 'data/raw/oxford/' | https://oxfordinsights.com/ai-readiness/ |
+| World Development Indicators (World Bank) | Predictors (connectivity, socioeconomic, tech) | 'data/raw/wdi/' | https://databank.worldbank.org/source/world-development-indicators |
+| Worldwide Governance Indicators (World Bank) | Predictors (governance) | 'data/raw/wgi/' | https://databank.worldbank.org (bundled within WDI) |
+| Stanford AI Index (Global AI Vibrancy Tool) | Contextual/narrative reference only — not used as a model input due to limited (~36) country coverage | 'stanford/' | https://aiindex.stanford.edu/vibrancy |
 
 See the full Data Dictionary in the project synopsis for variable-level definitions, 
 units, and exclusions (e.g., WGI Government Effectiveness and WDI Secure Internet 
