@@ -10,7 +10,7 @@ World Development Indicators) to avoid circularity between predictors and
 outcome.
 
 Four research questions are addressed:
-- **RQ1** — Do the highest-readiness, most rank-stable countries (2021-2024)
+- **RQ1** — Do the highest-readiness, most rank-stable countries (2021-2025)
   differ significantly from the rest on governance, socioeconomic,
   technological, and AI-ecosystem indicators?
 - **RQ2** — Which of these indicators predict national AI readiness, and does
