@@ -1,0 +1,9 @@
+predictor_1,predictor_2,r
+Control of Corruption,Rule of Law,0.9476088607375251
+Political Stability,Rule of Law,0.7956447766575534
+Fixed Broadband,Tertiary Enrolment,0.7837676535699301
+Fixed Broadband,GDP per capita,0.7572876161401618
+Control of Corruption,GDP per capita,0.7523719162279267
+Control of Corruption,Political Stability,0.7267273466613413
+Rule of Law,GDP per capita,0.7089561852151424
+Control of Corruption,Fixed Broadband,0.7059321540705454

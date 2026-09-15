@@ -1,0 +1,5 @@
+predictor_year,outcome_year,era,n_gari_roster,n_matched_to_predictors,n_dropped_no_predictors,dropped_countries
+2021,2022,0,181,180,1,['TWN']
+2022,2023,0,193,192,1,['TWN']
+2023,2024,0,188,187,1,['TWN']
+2023,2025,1,195,194,1,['TWN']

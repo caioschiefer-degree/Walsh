@@ -1,0 +1,66 @@
+predictor_year,region,income_classification,n_countries_in_group
+2021,East Asia & Pacific,High income,6
+2021,East Asia & Pacific,Lower middle income,10
+2021,East Asia & Pacific,Upper middle income,8
+2021,Europe & Central Asia,High income,32
+2021,Europe & Central Asia,Lower middle income,3
+2021,Europe & Central Asia,Upper middle income,14
+2021,Latin America & Caribbean,High income,9
+2021,Latin America & Caribbean,Lower middle income,4
+2021,Latin America & Caribbean,Upper middle income,17
+2021,Middle East & North Africa,High income,8
+2021,Middle East & North Africa,Low income,2
+2021,Middle East & North Africa,Lower middle income,6
+2021,Middle East & North Africa,Upper middle income,4
+2021,North America,High income,2
+2021,South Asia,Low income,1
+2021,South Asia,Lower middle income,6
+2021,South Asia,Upper middle income,1
+2021,Sub-Saharan Africa,High income,1
+2021,Sub-Saharan Africa,Low income,20
+2021,Sub-Saharan Africa,Lower middle income,19
+2021,Sub-Saharan Africa,Upper middle income,5
+2022,East Asia & Pacific,High income,7
+2022,East Asia & Pacific,Low income,1
+2022,East Asia & Pacific,Lower middle income,10
+2022,East Asia & Pacific,Upper middle income,10
+2022,Europe & Central Asia,High income,35
+2022,Europe & Central Asia,Lower middle income,3
+2022,Europe & Central Asia,Upper middle income,14
+2022,Latin America & Caribbean,High income,10
+2022,Latin America & Caribbean,Lower middle income,4
+2022,Latin America & Caribbean,Upper middle income,18
+2022,Middle East & North Africa,High income,8
+2022,Middle East & North Africa,Low income,2
+2022,Middle East & North Africa,Lower middle income,7
+2022,Middle East & North Africa,Upper middle income,4
+2022,North America,High income,2
+2022,South Asia,Low income,1
+2022,South Asia,Lower middle income,6
+2022,South Asia,Upper middle income,1
+2022,Sub-Saharan Africa,High income,1
+2022,Sub-Saharan Africa,Low income,21
+2022,Sub-Saharan Africa,Lower middle income,19
+2022,Sub-Saharan Africa,Upper middle income,6
+2023,East Asia & Pacific,High income,14
+2023,East Asia & Pacific,Low income,1
+2023,East Asia & Pacific,Lower middle income,21
+2023,East Asia & Pacific,Upper middle income,19
+2023,Europe & Central Asia,High income,69
+2023,Europe & Central Asia,Lower middle income,6
+2023,Europe & Central Asia,Upper middle income,28
+2023,Latin America & Caribbean,High income,20
+2023,Latin America & Caribbean,Lower middle income,8
+2023,Latin America & Caribbean,Upper middle income,35
+2023,Middle East & North Africa,High income,16
+2023,Middle East & North Africa,Low income,4
+2023,Middle East & North Africa,Lower middle income,14
+2023,Middle East & North Africa,Upper middle income,8
+2023,North America,High income,4
+2023,South Asia,Low income,2
+2023,South Asia,Lower middle income,12
+2023,South Asia,Upper middle income,2
+2023,Sub-Saharan Africa,High income,2
+2023,Sub-Saharan Africa,Low income,42
+2023,Sub-Saharan Africa,Lower middle income,38
+2023,Sub-Saharan Africa,Upper middle income,12

@@ -1,0 +1,217 @@
+country_name,country_code,region,income_classification,Year
+Andorra,AND,Europe & Central Asia,High income,1996
+Afghanistan,AFG,South Asia,Low income,1996
+Angola,AGO,Sub-Saharan Africa,Lower middle income,1996
+Albania,ALB,Europe & Central Asia,Upper middle income,1996
+United Arab Emirates,ARE,Middle East & North Africa,High income,1996
+Argentina,ARG,Latin America & Caribbean,Upper middle income,1996
+Armenia,ARM,Europe & Central Asia,Upper middle income,1996
+Antigua and Barbuda,ATG,Latin America & Caribbean,High income,1996
+Australia,AUS,East Asia & Pacific,High income,1996
+Austria,AUT,Europe & Central Asia,High income,1996
+Azerbaijan,AZE,Europe & Central Asia,Upper middle income,1996
+Burundi,BDI,Sub-Saharan Africa,Low income,1996
+Belgium,BEL,Europe & Central Asia,High income,1996
+Benin,BEN,Sub-Saharan Africa,Lower middle income,1996
+Burkina Faso,BFA,Sub-Saharan Africa,Low income,1996
+Bangladesh,BGD,South Asia,Lower middle income,1996
+Bulgaria,BGR,Europe & Central Asia,High income,1996
+Bahrain,BHR,Middle East & North Africa,High income,1996
+"Bahamas, The",BHS,Latin America & Caribbean,High income,1996
+Bosnia and Herzegovina,BIH,Europe & Central Asia,Upper middle income,1996
+Belarus,BLR,Europe & Central Asia,Upper middle income,1996
+Belize,BLZ,Latin America & Caribbean,Upper middle income,1996
+Bermuda,BMU,North America,High income,1996
+Bolivia,BOL,Latin America & Caribbean,Lower middle income,1996
+Brazil,BRA,Latin America & Caribbean,Upper middle income,1996
+Barbados,BRB,Latin America & Caribbean,High income,1996
+Brunei Darussalam,BRN,East Asia & Pacific,High income,1996
+Bhutan,BTN,South Asia,Lower middle income,1996
+Botswana,BWA,Sub-Saharan Africa,Upper middle income,1996
+Central African Republic,CAF,Sub-Saharan Africa,Low income,1996
+Canada,CAN,North America,High income,1996
+Switzerland,CHE,Europe & Central Asia,High income,1996
+Chile,CHL,Latin America & Caribbean,High income,1996
+China,CHN,East Asia & Pacific,Upper middle income,1996
+Côte d’Ivoire,CIV,Sub-Saharan Africa,Lower middle income,1996
+Cameroon,CMR,Sub-Saharan Africa,Lower middle income,1996
+"Congo, Dem. Rep.",COD,Sub-Saharan Africa,Low income,1996
+"Congo, Rep.",COG,Sub-Saharan Africa,Lower middle income,1996
+Colombia,COL,Latin America & Caribbean,Upper middle income,1996
+Comoros,COM,Sub-Saharan Africa,Lower middle income,1996
+Cabo Verde,CPV,Sub-Saharan Africa,Upper middle income,1996
+Costa Rica,CRI,Latin America & Caribbean,High income,1996
+Cuba,CUB,Latin America & Caribbean,Upper middle income,1996
+Cayman Islands,CYM,Latin America & Caribbean,High income,1996
+Cyprus,CYP,Europe & Central Asia,High income,1996
+Czechia,CZE,Europe & Central Asia,High income,1996
+Germany,DEU,Europe & Central Asia,High income,1996
+Djibouti,DJI,Middle East & North Africa,Lower middle income,1996
+Dominica,DMA,Latin America & Caribbean,Upper middle income,1996
+Denmark,DNK,Europe & Central Asia,High income,1996
+Dominican Republic,DOM,Latin America & Caribbean,Upper middle income,1996
+Algeria,DZA,Middle East & North Africa,Upper middle income,1996
+Ecuador,ECU,Latin America & Caribbean,Upper middle income,1996
+"Egypt, Arab Rep.",EGY,Middle East & North Africa,Lower middle income,1996
+Eritrea,ERI,Sub-Saharan Africa,Low income,1996
+Spain,ESP,Europe & Central Asia,High income,1996
+Estonia,EST,Europe & Central Asia,High income,1996
+Ethiopia,ETH,Sub-Saharan Africa,,1996
+Finland,FIN,Europe & Central Asia,High income,1996
+Fiji,FJI,East Asia & Pacific,Upper middle income,1996
+France,FRA,Europe & Central Asia,High income,1996
+"Micronesia, Fed. Sts.",FSM,East Asia & Pacific,Lower middle income,1996
+Gabon,GAB,Sub-Saharan Africa,Upper middle income,1996
+United Kingdom,GBR,Europe & Central Asia,High income,1996
+Georgia,GEO,Europe & Central Asia,Upper middle income,1996
+Ghana,GHA,Sub-Saharan Africa,Lower middle income,1996
+Guinea,GIN,Sub-Saharan Africa,Lower middle income,1996
+"Gambia, The",GMB,Sub-Saharan Africa,Low income,1996
+Guinea-Bissau,GNB,Sub-Saharan Africa,Low income,1996
+Equatorial Guinea,GNQ,Sub-Saharan Africa,Upper middle income,1996
+Greece,GRC,Europe & Central Asia,High income,1996
+Grenada,GRD,Latin America & Caribbean,Upper middle income,1996
+Guatemala,GTM,Latin America & Caribbean,Upper middle income,1996
+French Guiana,GUF,,,1996
+Guyana,GUY,Latin America & Caribbean,High income,1996
+"Hong Kong SAR, China",HKG,East Asia & Pacific,High income,1996
+Honduras,HND,Latin America & Caribbean,Lower middle income,1996
+Croatia,HRV,Europe & Central Asia,High income,1996
+Haiti,HTI,Latin America & Caribbean,Lower middle income,1996
+Hungary,HUN,Europe & Central Asia,High income,1996
+Indonesia,IDN,East Asia & Pacific,Upper middle income,1996
+India,IND,South Asia,Lower middle income,1996
+Ireland,IRL,Europe & Central Asia,High income,1996
+"Iran, Islamic Rep.",IRN,Middle East & North Africa,Upper middle income,1996
+Iraq,IRQ,Middle East & North Africa,Upper middle income,1996
+Iceland,ISL,Europe & Central Asia,High income,1996
+Israel,ISR,Middle East & North Africa,High income,1996
+Italy,ITA,Europe & Central Asia,High income,1996
+Jamaica,JAM,Latin America & Caribbean,Upper middle income,1996
+Jordan,JOR,Middle East & North Africa,Lower middle income,1996
+Japan,JPN,East Asia & Pacific,High income,1996
+Kazakhstan,KAZ,Europe & Central Asia,Upper middle income,1996
+Kenya,KEN,Sub-Saharan Africa,Lower middle income,1996
+Kyrgyz Republic,KGZ,Europe & Central Asia,Lower middle income,1996
+Cambodia,KHM,East Asia & Pacific,Lower middle income,1996
+Kiribati,KIR,East Asia & Pacific,Lower middle income,1996
+St. Kitts and Nevis,KNA,Latin America & Caribbean,High income,1996
+"Korea, Rep.",KOR,East Asia & Pacific,High income,1996
+Kuwait,KWT,Middle East & North Africa,High income,1996
+Lao PDR,LAO,East Asia & Pacific,Lower middle income,1996
+Lebanon,LBN,Middle East & North Africa,Lower middle income,1996
+Liberia,LBR,Sub-Saharan Africa,Low income,1996
+Libya,LBY,Middle East & North Africa,Upper middle income,1996
+St. Lucia,LCA,Latin America & Caribbean,Upper middle income,1996
+Liechtenstein,LIE,Europe & Central Asia,High income,1996
+Sri Lanka,LKA,South Asia,Lower middle income,1996
+Lesotho,LSO,Sub-Saharan Africa,Lower middle income,1996
+Lithuania,LTU,Europe & Central Asia,High income,1996
+Luxembourg,LUX,Europe & Central Asia,High income,1996
+Latvia,LVA,Europe & Central Asia,High income,1996
+"Macao SAR, China",MAC,East Asia & Pacific,High income,1996
+Morocco,MAR,Middle East & North Africa,Lower middle income,1996
+Monaco,MCO,Europe & Central Asia,High income,1996
+Moldova,MDA,Europe & Central Asia,Upper middle income,1996
+Madagascar,MDG,Sub-Saharan Africa,Low income,1996
+Maldives,MDV,South Asia,Upper middle income,1996
+Mexico,MEX,Latin America & Caribbean,Upper middle income,1996
+Marshall Islands,MHL,East Asia & Pacific,Upper middle income,1996
+North Macedonia,MKD,Europe & Central Asia,Upper middle income,1996
+Mali,MLI,Sub-Saharan Africa,Low income,1996
+Malta,MLT,Middle East & North Africa,High income,1996
+Myanmar,MMR,East Asia & Pacific,Lower middle income,1996
+Mongolia,MNG,East Asia & Pacific,Upper middle income,1996
+Mozambique,MOZ,Sub-Saharan Africa,Low income,1996
+Mauritania,MRT,Sub-Saharan Africa,Lower middle income,1996
+Martinique,MTQ,,,1996
+Mauritius,MUS,Sub-Saharan Africa,Upper middle income,1996
+Malawi,MWI,Sub-Saharan Africa,Low income,1996
+Malaysia,MYS,East Asia & Pacific,Upper middle income,1996
+Namibia,NAM,Sub-Saharan Africa,Lower middle income,1996
+Niger,NER,Sub-Saharan Africa,Low income,1996
+Nigeria,NGA,Sub-Saharan Africa,Lower middle income,1996
+Nicaragua,NIC,Latin America & Caribbean,Lower middle income,1996
+Netherlands,NLD,Europe & Central Asia,High income,1996
+Norway,NOR,Europe & Central Asia,High income,1996
+Nepal,NPL,South Asia,Lower middle income,1996
+Nauru,NRU,East Asia & Pacific,High income,1996
+New Zealand,NZL,East Asia & Pacific,High income,1996
+Oman,OMN,Middle East & North Africa,High income,1996
+Pakistan,PAK,South Asia,Lower middle income,1996
+Panama,PAN,Latin America & Caribbean,High income,1996
+Peru,PER,Latin America & Caribbean,Upper middle income,1996
+Philippines,PHL,East Asia & Pacific,Lower middle income,1996
+Palau,PLW,East Asia & Pacific,High income,1996
+Papua New Guinea,PNG,East Asia & Pacific,Lower middle income,1996
+Poland,POL,Europe & Central Asia,High income,1996
+Puerto Rico (U.S.),PRI,Latin America & Caribbean,High income,1996
+"Korea, Dem. People's Rep.",PRK,East Asia & Pacific,Low income,1996
+Portugal,PRT,Europe & Central Asia,High income,1996
+Paraguay,PRY,Latin America & Caribbean,Upper middle income,1996
+West Bank and Gaza,PSE,Middle East & North Africa,Lower middle income,1996
+Qatar,QAT,Middle East & North Africa,High income,1996
+Romania,ROU,Europe & Central Asia,High income,1996
+Russian Federation,RUS,Europe & Central Asia,High income,1996
+Rwanda,RWA,Sub-Saharan Africa,Low income,1996
+Saudi Arabia,SAU,Middle East & North Africa,High income,1996
+Sudan,SDN,Sub-Saharan Africa,Low income,1996
+Senegal,SEN,Sub-Saharan Africa,Lower middle income,1996
+Singapore,SGP,East Asia & Pacific,High income,1996
+Solomon Islands,SLB,East Asia & Pacific,Lower middle income,1996
+Sierra Leone,SLE,Sub-Saharan Africa,Low income,1996
+El Salvador,SLV,Latin America & Caribbean,Upper middle income,1996
+San Marino,SMR,Europe & Central Asia,High income,1996
+Federal Republic of Somalia,SOM,Sub-Saharan Africa,Low income,1996
+Serbia,SRB,Europe & Central Asia,Upper middle income,1996
+São Tomé and Príncipe,STP,Sub-Saharan Africa,Lower middle income,1996
+Suriname,SUR,Latin America & Caribbean,Upper middle income,1996
+Slovak Republic,SVK,Europe & Central Asia,High income,1996
+Slovenia,SVN,Europe & Central Asia,High income,1996
+Sweden,SWE,Europe & Central Asia,High income,1996
+Eswatini,SWZ,Sub-Saharan Africa,Lower middle income,1996
+Seychelles,SYC,Sub-Saharan Africa,High income,1996
+Syrian Arab Republic,SYR,Middle East & North Africa,Low income,1996
+Chad,TCD,Sub-Saharan Africa,Low income,1996
+Togo,TGO,Sub-Saharan Africa,Low income,1996
+Thailand,THA,East Asia & Pacific,Upper middle income,1996
+Tajikistan,TJK,Europe & Central Asia,Lower middle income,1996
+Turkmenistan,TKM,Europe & Central Asia,Upper middle income,1996
+Tonga,TON,East Asia & Pacific,Upper middle income,1996
+Trinidad and Tobago,TTO,Latin America & Caribbean,High income,1996
+Tunisia,TUN,Middle East & North Africa,Lower middle income,1996
+Türkiye,TUR,Europe & Central Asia,Upper middle income,1996
+Tuvalu,TUV,East Asia & Pacific,Upper middle income,1996
+"Taiwan, China",TWN,East Asia & Pacific,High income,1996
+Tanzania,TZA,Sub-Saharan Africa,Lower middle income,1996
+Uganda,UGA,Sub-Saharan Africa,Low income,1996
+Ukraine,UKR,Europe & Central Asia,Upper middle income,1996
+Uruguay,URY,Latin America & Caribbean,High income,1996
+United States,USA,North America,High income,1996
+Uzbekistan,UZB,Europe & Central Asia,Lower middle income,1996
+St. Vincent and the Grenadines,VCT,Latin America & Caribbean,Upper middle income,1996
+"Venezuela, RB",VEN,Latin America & Caribbean,,1996
+Viet Nam,VNM,East Asia & Pacific,Lower middle income,1996
+Vanuatu,VUT,East Asia & Pacific,Lower middle income,1996
+Samoa,WSM,East Asia & Pacific,Upper middle income,1996
+"Yemen, Rep.",YEM,Middle East & North Africa,Low income,1996
+South Africa,ZAF,Sub-Saharan Africa,Upper middle income,1996
+Zambia,ZMB,Sub-Saharan Africa,Lower middle income,1996
+Zimbabwe,ZWE,Sub-Saharan Africa,Lower middle income,1996
+Montenegro,MNE,Europe & Central Asia,Upper middle income,1998
+Timor-Leste,TLS,East Asia & Pacific,Lower middle income,2000
+Kosovo,XKX,Europe & Central Asia,Upper middle income,2000
+Aruba,ABW,Latin America & Caribbean,High income,2004
+Anguilla,AIA,,,2004
+Netherlands Antilles (former),ANT,,,2004
+American Samoa,ASM,East Asia & Pacific,High income,2004
+Guam,GUM,East Asia & Pacific,High income,2004
+Réunion,REU,,,2004
+Virgin Islands (U.S.),VIR,Latin America & Caribbean,High income,2004
+Cook Islands,COK,,,2005
+Greenland,GRL,Europe & Central Asia,High income,2009
+Niue,NIU,,,2009
+"Jersey, Channel Islands",JEY,,,2011
+South Sudan,SSD,Sub-Saharan Africa,Low income,2011
+New Caledonia,NCL,East Asia & Pacific,High income,2018
+French Polynesia,PYF,East Asia & Pacific,High income,2019

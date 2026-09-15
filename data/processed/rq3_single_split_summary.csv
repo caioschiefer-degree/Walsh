@@ -1,0 +1,3 @@
+era,n_train,n_test,n_train_countries,n_test_countries,country_overlap,log_auc,rf_auc
+Pre-2025,446,113,153,39,0,0.9833333333333334,0.9901515151515151
+2025,155,39,155,39,0,0.893491124260355,0.9674556213017751

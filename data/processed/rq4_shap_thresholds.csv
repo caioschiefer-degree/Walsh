@@ -1,0 +1,9 @@
+era,predictor,threshold,crossing_found
+Pre-2025,Journal Articles (log) [log scale],7.59733108978629,True
+Pre-2025,Fixed Broadband,19.2796725887476,True
+Pre-2025,GDP per capita,30834.17736681112,True
+Pre-2025,Control of Corruption,0.144834,True
+2025,Journal Articles (log) [log scale],7.265716395446266,True
+2025,Tertiary Enrolment,58.8552351188906,True
+2025,GDP per capita,29776.895175215937,True
+2025,Fixed Broadband,15.684638711122204,True

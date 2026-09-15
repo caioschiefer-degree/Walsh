@@ -1,0 +1,10 @@
+indicator,check,n_flagged_rows
+NY.GDP.PCAP.PP.CD,value <= 0,0
+SE.TER.ENRR,value < 0,0
+IT.NET.BBND.P2,value < 0,0
+IT.CEL.SETS.P2,value < 0,0
+TX.VAL.TECH.MF.ZS,value < 0 or > 100,0
+IP.JRN.ARTC.SC,value < 0,0
+GOV_WGI_CC_EST,outside -2.5/2.5,0
+GOV_WGI_PV_EST,outside -2.5/2.5,8
+GOV_WGI_RL_EST,outside -2.5/2.5,0
